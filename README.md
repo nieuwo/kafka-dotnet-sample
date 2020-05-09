@@ -4,7 +4,7 @@
 This sample app contains a .Net Core application that produces sample data on to a Kafka topic and the also consumes the topic data. The Kafka broker, zookeeper & control center is docker images that gets pulled in the docker-compose file
 
 ## Prerequisites
-* [.NET Core 2.1](https://dotnet.microsoft.com/download/dotnet-core/3.1)
+* [.NET Core 3.1](https://dotnet.microsoft.com/download/dotnet-core/3.1)
 * [Docker CE](https://docs.docker.com/docker-for-windows/install/)
 * [Docker Compose](https://docs.docker.com/compose/install/)
 
