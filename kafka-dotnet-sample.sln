@@ -1,11 +1,11 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C8B014F6-CB8A-44F7-B86B-C914F209C14B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kafka.Dotnet.Sample", "src\Kafka.Dotnet.Sample\Kafka.Dotnet.Sample.csproj", "{C7A657D1-0BA4-4F89-988F-99B14627F751}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kafka.Dotnet.Sample", "src\Kafka.Dotnet.Sample\Kafka.Dotnet.Sample.csproj", "{C7A657D1-0BA4-4F89-988F-99B14627F751}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
